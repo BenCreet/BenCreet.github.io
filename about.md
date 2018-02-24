@@ -13,6 +13,8 @@ I do technology policy, Internet advocacy and project stuff for InternetNZ, a ch
 
 A national expert on Coordinated Disclosure I [wrote the guidelines](http://nzitf.org.nz/coordinated-disclosure/) on coordinated disclosure in New Zealand. 
 
+My CV can be downloaded from my [corner of the cloud](https://1drv.ms/b/s!AkVbtqr8BZDSlvNKgSzWVgJEvw1NVQ) (.pdf).
+
 ## My Study
 I’m a student of geopolitical strategy. Which mostly nails my colours to the mast. I’m a bit of a realist, but as someone in a small state, I tend to be quite an Institutionalist in my realism. I predominantly think and write about how and when strategy and the Internet collide. I’ve used Trello to map out my dissertation and I’m writing in public in a github repo here.
 
